@@ -1,3 +1,2 @@
-# CSES
+# CSES (soluciones)
 ## https://cses.fi/problemset/
-## Luis Eduardo Garza Medina
